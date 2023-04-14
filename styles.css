@@ -125,7 +125,13 @@ header a:hover {
     background-color: #006241;
 }
 
+.menue {
+    display: none;
+}
 
+.menu {
+    display: none;
+}
 @keyframes appearanim {
     0% {
         transform: translateY(100%);
@@ -142,4 +148,93 @@ header a:hover {
         opacity: 1;
   
     }
+}
+
+@media (max-width: 991px) {
+    
+
+
+    .text {
+        font-size: 16px;
+        margin-top: 25%;
+    }
+
+    .round2 {
+        display: none;
+
+    }
+
+    header {
+        margin-top: 2%;
+
+    }
+
+    .round {
+        clip-path: circle(400px at right 800px);
+    }
+
+    .bottle {
+        margin-left: 40%;
+        height: 60%;
+        margin-top: 50%;
+    }
+
+    .coffee{
+        margin-top: 90%;
+        height: 30%;
+    }
+    
+    .menue {
+        display: flex;
+        cursor: pointer;
+        margin-left: 85%;
+        margin-top: 5%;
+        width: 200px;
+        position: absolute;
+    }
+
+    .menu {
+        background: white;
+        position:absolute;
+        width: 100%;
+        height: 100%;
+        display: none;
+        margin-top: -5%;
+        z-index: 2;
+    }
+    
+
+    .menu i {
+        display: flex;
+        cursor: pointer;
+        margin-left: 85%;
+        margin-top: 8%;
+        width: 200px;
+        position: absolute;
+        z-index: 3;
+    }
+
+    .menu ul {
+        position:absolute;
+        margin-top: 20px;
+        display: inline;
+        margin-top: 20%;
+        z-index: 3;
+    }
+
+    .menu li {
+        margin-bottom: 20%;
+        width: 100%;
+        margin-left: -200%;
+        font-size: 30px;
+    }
+
+    header ul {
+        display: none;
+    }
+
+    .lname {
+        margin-top: 2%;
+    }
+
 }
