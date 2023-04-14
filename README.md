@@ -1,1 +1,1 @@
-# starbucks-design
+# starbucks-design-responsive
