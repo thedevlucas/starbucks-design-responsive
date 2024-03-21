@@ -9,10 +9,12 @@
 ![GitLab Stars](https://img.shields.io/github/stars/TheDevLucas/starbucks-design-responsive?style=for-the-badge)
 ![GitLab Stars](https://img.shields.io/github/forks/TheDevLucas/starbucks-design-responsive?style=for-the-badge)
 
-</div>
-
 ## Starbucks Responsive Design
 This page was created with the intention of testing my skills and is not affiliated with any job or organization.
+
+</div>
+
+
 
 <p align="right">(<a href="#readme-top">Go up</a>)</p>
 
