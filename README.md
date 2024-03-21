@@ -16,31 +16,11 @@ La Velada IV es una competición de boxeo que enfrenta a streamers, creadores de
 
 </div>
 
-<details>
-<summary>Tabla de contenidos</summary>
-
-- [Web oficial de La Velada IV](#web-oficial-de-la-velada-iv)
-- [Características principales](#características-principales)
-  - [Capturas de pantalla de la web de La Velada IV:](#capturas-de-pantalla-de-la-web-de-la-velada-iv)
-- [Para empezar](#para-empezar)
-  - [Prerequisitos](#prerequisitos)
-  - [Instalación](#instalación)
-- [Contribuir al proyecto](#contribuir-al-proyecto)
-  - [Contribuir desde Stackblitz](#contribuir-desde-stackblitz)
-- [🛠️ Stack](#️-stack)
-
-</details>
-
 ## Características principales
 
 - **Detalles del evento**: Obtén información detallada sobre la fecha, hora, ubicación y artistas participantes.
 - **Compra de boletos**: Permite a los usuarios dirigirlos a la compra de boletos fácilmente.
 - **Redes sociales**: Conoce las redes oficiales donde podrás informarte sobre el evento.
-
-### Capturas de pantalla de la web de La Velada IV
-
-![Captura de pantalla en móvil](./public/img/github/Mobile_README.png)
-![Captura de pantalla en ordenador](./public/img/github/Desktop_README.png)
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
