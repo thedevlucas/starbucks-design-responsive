@@ -27,12 +27,10 @@ La Velada IV es una competición de boxeo que enfrenta a streamers, creadores de
 
 ## 🛠️ Stack
 
-- [![Astro][astro-badge]][astro-url] - The web framework for content-driven websites.
-- [![Typescript][typescript-badge]][typescript-url] - JavaScript with syntax for types.
-- [![Tailwind CSS][tailwind-badge]][tailwind-url] - A utility-first CSS framework for rapidly building custom designs.
-- [![@midudev/tailwind-animations][animations-badge]][animations-url] - Easy peasy animations for your Tailwind project.
+- ![GitLab Stars](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) - asdasdasdasd
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
+
 
 [astro-url]: https://astro.build/
 [typescript-url]: https://www.typescriptlang.org/
