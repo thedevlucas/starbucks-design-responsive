@@ -6,8 +6,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/TheDevLucas?style=for-the-badge)
 ![GitLab Stars](https://img.shields.io/github/stars/TheDevLucas/starbucks-design-responsive?style=for-the-badge)
-![GitLab Stars](https://img.shields.io/github/stars/TheDevLucas/starbucks-design-responsive?style=for-the-badge)Ñ
-![GitLab Stars](https://img.shields.io/github/forks/TheDevLucas/starbucks-design-responsive?style=for-the-badge)Ñ
+![GitLab Stars](https://img.shields.io/github/stars/TheDevLucas/starbucks-design-responsive?style=for-the-badge)
+![GitLab Stars](https://img.shields.io/github/forks/TheDevLucas/starbucks-design-responsive?style=for-the-badge)
 
 
 ## Starbucks Example Responsive Design
