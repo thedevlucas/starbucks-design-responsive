@@ -1,5 +1,3 @@
-# starbucks-design-responsive
-
 ![alt text](https://github.com/TheDevLucas/starbucks-design-responsive/blob/main/starbucks.png?raw=true)
 
 <a name="readme-top"></a>
@@ -10,10 +8,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-
-<a href="https://github.com/midudev/la-velada-web-oficial">
-  <img width="300px" src="./public/img/drawn-x-logo.webp" alt="Logo" width="800" />
-</a>
 
 ## Web oficial de La Velada IV
 
