@@ -27,7 +27,8 @@ La Velada IV es una competición de boxeo que enfrenta a streamers, creadores de
 
 ## 🛠️ Stack
 
-- ![GitLab Stars](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) - asdasdasdasd
+- ![GitLab Stars](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) - This proyect was maded by HTML
+- ![GitLab Stars](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) - This proyect was maded by CSS3
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
