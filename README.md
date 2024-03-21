@@ -41,11 +41,3 @@ La Velada IV es una competición de boxeo que enfrenta a streamers, creadores de
 [typescript-badge]: https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=blue
 [tailwind-badge]: https://img.shields.io/badge/Tailwind-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8
 [animations-badge]: https://img.shields.io/badge/@midudev/tailwind-animations-ff69b4?style=for-the-badge&logo=node.js&logoColor=white&color=blue
-[contributors-shield]: https://img.shields.io/github/contributors/midudev/la-velada-web-oficial.svg?style=for-the-badge
-[contributors-url]: https://github.com/midudev/la-velada-web-oficial/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/midudev/la-velada-web-oficial.svg?style=for-the-badge
-[forks-url]: https://github.com/midudev/la-velada-web-oficial/network/members
-[stars-shield]: https://img.shields.io/github/stars/midudev/la-velada-web-oficial.svg?style=for-the-badge
-[stars-url]: https://github.com/midudev/la-velada-web-oficial/stargazers
-[issues-shield]: https://img.shields.io/github/issues/midudev/la-velada-web-oficial.svg?style=for-the-badge
-[issues-url]: https://github.com/midudev/la-velada-web-oficial/issues
