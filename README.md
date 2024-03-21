@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/:TheDevLucas">
+![GitHub followers](https://img.shields.io/github/followers/:user)
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
