@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Contributors][contributors-shield]][contributors-url]
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/:TheDevLucas">
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
