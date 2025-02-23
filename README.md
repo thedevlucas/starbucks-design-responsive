@@ -1,4 +1,4 @@
-![alt text](https://github.com/TheDevLucas/starbucks-design-responsive/blob/main/starbucks.png?raw=true)
+![alt text](https://github.com/TheDevLucas/starbucks-design-responsive/blob/main/77070f74-ea26-41ae-a154-b881c51bb2cf.jpeg?raw=true)
 
 <a name="readme-top"></a>
 
